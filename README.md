@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devopscoacht
+- 👋 Hi, I’m @coatech 
 - 👀 I’m interested in  teaching DevOps and SREs ways
 - 🌱 I’m currently learning more things on DevSecOps
 - 💞️ I’m looking to collaborate on any available projects
